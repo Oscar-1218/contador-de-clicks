@@ -1,0 +1,23 @@
+button{
+    background-color: blueviolet;
+    cursor: pointer;
+    width: 250px;
+    height: 80px;
+    font-weight: bold;
+    color: white;
+    font-style: Roboto, sans-serif;
+    border-radius: 15px;
+    margin: 5px;
+    font-size: 35px;
+}
+button:hover{
+    background-color: #00471b;
+}
+.restar{
+    background-color: rgb(194, 35, 35);
+}
+.sumar{
+    background-color: rgb(85, 194, 35);
+}
+
+

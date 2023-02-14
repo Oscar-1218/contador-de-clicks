@@ -1,0 +1,14 @@
+div.contador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    height: 50vh;
+}
+.contador{
+    font-size: 150px;
+    font-weight: 700;
+    color: aqua;
+    
+    border:  5px solid greenyellow;
+}
